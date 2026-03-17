@@ -1,0 +1,12 @@
+# uv & Virtual Environments
+.venv/
+.uv/
+
+# Python clutter
+__pycache__/
+*.py[cod]
+.python-version
+
+# Scientific/Notebook checkpoints
+.ipynb_checkpoints/
+.DS_Store
